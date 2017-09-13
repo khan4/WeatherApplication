@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="place_key">AIzaSyB8TV_jy8-Kc9jRcJsnPbG-980nmENMeX4</string>
+</resources>
