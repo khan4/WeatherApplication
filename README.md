@@ -1,2 +1,2 @@
-# GreatSalmanKhanClasses
+# WeatherApp
 Siddique Lullu day 
